@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@hocuspocus/extension-database": "^2.13.5",
+    "@tiptap/extension-color": "^2.6.2",
+    "@tiptap/extension-text-style": "^2.6.2",
     "@tiptap/pm": "^2.6.2",
     "@tiptap/react": "^2.6.2",
     "@tiptap/starter-kit": "^2.6.2",
